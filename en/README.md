@@ -13,9 +13,9 @@ Welcome to the official repository of the {R3} Manifesto. This project proposes 
 
 This repository hosts stable, validated versions of the manifesto.
 
-👉 **[Download the latest version (PDF)](../Livre%20blanc%20VI%20Republique%20Master.pdf)**
+👉 **[Download the English version (PDF)](./White_Paper_Sixth_Republic_EN.pdf)**
 
-*Note: the PDF is currently available in French only.*
+👉 **[Télécharger la version française (PDF)](../Livre%20blanc%20VI%20Republique%20Master.pdf)**
 
 ---
 
