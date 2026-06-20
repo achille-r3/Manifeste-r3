@@ -12,7 +12,6 @@ Ce dépôt héberge les versions stables et validées du manifeste.
 
 👉 **[Télécharger la dernière version (PDF)](./Livre blanc VI Republique Master.pdf)**
 
-*(Note : Assurez-vous que le fichier s'appelle bien `manifeste-r3.pdf` dans votre dépôt)*
 
 ---
 
