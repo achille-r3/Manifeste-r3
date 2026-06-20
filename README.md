@@ -10,7 +10,7 @@ Bienvenue sur le dépôt officiel de diffusion du Manifeste {R3}. Ce projet prop
 
 Ce dépôt héberge les versions stables et validées du manifeste.
 
-👉 **[Télécharger la dernière version (PDF)]([(https://github.com/achille-r3/Manifeste-r3/blob/67c9e28957ef565d5ba3596f37d297fa3224daeb/Livre%20blanc%20VI%20Republique%20Master.pdf))**
+👉 **[Télécharger la dernière version (PDF)](./Manifest-r3/Livre blanc VI Republique Master.pdf)**
 
 *(Note : Assurez-vous que le fichier s'appelle bien `manifeste-r3.pdf` dans votre dépôt)*
 
