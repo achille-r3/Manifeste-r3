@@ -22,7 +22,7 @@ Contributions and amendments are accepted in French only — see [`CONTRIBUTING.
 
 ## 📄 Manifesto (PDF)
 
-👉 [Télécharger / Download (PDF)](./Livre%20blanc%20VI%20Republique%20Master.pdf)
+👉 [Télécharger / Download (PDF)](./fr/Livre%20blanc%20VI%20Republique%20Master.pdf)
 
 *Currently available in French only.*
 
