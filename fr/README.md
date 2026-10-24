@@ -10,7 +10,7 @@ Bienvenue sur le dépôt officiel de diffusion du Manifeste {R3}. Ce projet prop
 
 Ce dépôt héberge les versions stables et validées du manifeste.
 
-👉 **[Télécharger la dernière version (PDF)](../Livre%20blanc%20VI%20Republique%20Master.pdf)**
+👉 **[Télécharger la dernière version (PDF)](./Livre%20blanc%20VI%20Republique%20Master.pdf)**
 
 ---
 
